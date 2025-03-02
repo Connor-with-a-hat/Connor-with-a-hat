@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey, I'm Connor!<br>Security Enthusiast and Programmer
 
-<!--
-**Connor-with-a-hat/Connor-with-a-hat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔒Cybersecurity Projects🔒
+
+### Blue Team
+- link to proj
+- link to proj
+
+### Red Team
+- link to proj
+- link to proj
+
+
+
+## 💻Programming Projects💻
+
+### Programming Lang
+- link to proj
+- link to proj
+
+### Programming Lang
+- link to proj
+- link to proj
+
+## 🧢Blog🧢
+
+### Security Software
+- link to post
+- link to post
+
+### CTFs
+- link to post
+- link to post
+
+---
+
+Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
+
